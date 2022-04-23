@@ -2,7 +2,7 @@
   <img width="" height="" src="https://user-images.githubusercontent.com/81550376/164896586-26e6b3da-63bc-4313-8012-e4b13b825174.png">
 </p>
 
-### Hi there 👋
+### Hi there 👋 I am Prakash.
 
 
 <!--
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Social 🤳
 
 <a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
