@@ -69,6 +69,11 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
 
+### 👨‍💻 Top Languages Used:
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -76,6 +81,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakash4844&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakash4844&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+ <br />
+  
+   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+   
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prakash4844&theme=react-dark)   
+
 
 ![alt text](https://raw.githubusercontent.com/sisodiya2421/sisodiya2421/da6f1c41f17bbf0054531053500618a4f4bbaa6b/images/bottom.svg)
