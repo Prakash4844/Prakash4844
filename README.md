@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/Prakash53574940">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1650725745~hmac=a6833c301584b154e8f25fd0bb1c72d3" />
 </a>
 <a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
 <a href="https://mail.google.com/mail/u/0/?ibxr=0#inbox?compose=new">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
 <br />
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Community" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
+<img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
 </br>
 
 
@@ -66,8 +68,6 @@ Here are some ideas to get you started:
 - [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact)
 
 <br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
@@ -87,5 +87,6 @@ Here are some ideas to get you started:
    
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prakash4844&theme=react-dark)   
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
 
 ![alt text](https://raw.githubusercontent.com/sisodiya2421/sisodiya2421/da6f1c41f17bbf0054531053500618a4f4bbaa6b/images/bottom.svg)
