@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="mailto:pk484442@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?ibxr=0#inbox?compose=new">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
