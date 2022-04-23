@@ -1,4 +1,9 @@
+<p align="center">
+  <img width="" height="" src="https://user-images.githubusercontent.com/81550376/164896586-26e6b3da-63bc-4313-8012-e4b13b825174.png">
+</p>
+
 ### Hi there 👋
+
 
 <!--
 **Prakash4844/Prakash4844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/Prakash53574940">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="mailto:pk484442@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+🌱  I’m an Anime fan in sophomore year of my Bachelors in Computer Application. </br>
+🔭  I’m currently learning everything 🤣 </br>
+⚡  Fun fact: I love to draw, play video game & watch cartoons and anime. </br>
+👨‍💻  I am passionate about Game Development, Drawing & I enjoy learning new things. </br>
+</br>
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
+<img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
+<img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
+<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/376344/python.svg" />
+<img align="left" alt="Unity Engine" width="26px" src="https://www.svgrepo.com/show/331626/unity.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
+<img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
+<img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
+</br>
+
+
+### My Projects 🙌
+- [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars)
+- [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C)
+- [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system)
+- [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact)
+
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Prakash4844">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakash4844&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakash4844&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![alt text](https://raw.githubusercontent.com/sisodiya2421/sisodiya2421/da6f1c41f17bbf0054531053500618a4f4bbaa6b/images/bottom.svg)
