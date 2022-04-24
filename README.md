@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/Prakash53574940">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1650725745~hmac=a6833c301584b154e8f25fd0bb1c72d3" />
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/22159/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
