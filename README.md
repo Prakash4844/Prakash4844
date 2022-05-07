@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 - [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C)
 - [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system)
 - [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact)
+- [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix)
 
 <br />
 
