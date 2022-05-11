@@ -50,12 +50,14 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
-<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/376344/python.svg" />
+<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Unity Engine" width="26px" src="https://www.svgrepo.com/show/331626/unity.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/343674/github.svg" />
-<img align="left" alt="Linux" width="26px" src="https://www.svgrepo.com/show/184138/linux.svg" />
+<img align="left" alt="Manjaro" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
+<img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 <img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
