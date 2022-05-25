@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ⚡  Fun fact: I love to draw, play video game & watch cartoons and anime. </br>
 👨‍💻  I am passionate about Game Development, Drawing & I enjoy learning new things. </br>
 </br>
-### Languages and Tools:
 
+### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Community" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Windows" width="26px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 <img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
-</br>
-
+</br></br>
 
 ### My Projects 🙌
 - [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars)
