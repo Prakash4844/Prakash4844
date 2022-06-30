@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
 <img align="left" alt="Android" width="26px" src="https://logos-download.com/wp-content/uploads/2016/05/Android_Logo_2014.svg" />
 <img align="left" alt="Mono" width="26px" src="https://upload.wikimedia.org/wikipedia/en/b/b4/Mono_project_logo.svg" /></br>
+</br><img align=left" alt="Mono" width="26px" src="https://cdn.icon-icons.com/icons2/3265/PNG/512/markdown_icon_207114.png" /></br>
 </br></br>
 
 ### My Projects 🙌
