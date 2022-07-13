@@ -9,6 +9,7 @@
 <a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA"><img src="https://img.shields.io/badge/YouTube-DAPHindiGaming-red?logo=youtube&logoColor=red" alt="YouTube - DAPHindiGaming"></a>
 <a href="https://twitter.com/Prakash53574940"><img src="https://img.shields.io/badge/Twitter-Prakash-blue?logo=twitter&logoColor=blue" alt="Twitter - Prakash"></a>
 <a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Prakash+Kumar&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Prakash Kumar"></a>
+[![Gmail - Prakash](https://img.shields.io/badge/Gmail-Prakash-red?logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?ibxr=0#inbox?compose=new)
 
 <!-- 
 <a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/">
