@@ -45,7 +45,7 @@
 <img align="left" alt="C" width="26px" src="https://www.svgrepo.com/show/353528/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://www.svgrepo.com/show/303480/c-logo.svg" />
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/353622/c-sharp.svg" />
-<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png" />
+<img align="left" alt=".NET" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Qn56jZYxE3FX7Qz7aeV9L3wZ_4PnBPzuNw&usqp=CAU" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Unity Engine" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/c/ce/Unity_%28Icon%29.svg/revision/latest?cb=20210722101017" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
