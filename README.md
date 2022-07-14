@@ -95,7 +95,10 @@
   Bye!
 </p>
 
+ <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844" alt="Prakash4844" /></p>
 
+<!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844)
+-->
 
 ![alt text](https://raw.githubusercontent.com/sisodiya2421/sisodiya2421/da6f1c41f17bbf0054531053500618a4f4bbaa6b/images/bottom.svg)
