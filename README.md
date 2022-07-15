@@ -2,9 +2,12 @@
   <img width="" height="" src="https://user-images.githubusercontent.com/81550376/164896586-26e6b3da-63bc-4313-8012-e4b13b825174.png">
 </p>
 
-### Hi there 👋, I am Prakash.
+Hey there, Thanks for visiting my profile... 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Prakash.
 
-### Social 🤳
+
+
+### Let's Connect 🤳
 
 <a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA"><img src="https://img.shields.io/badge/YouTube-DAPHindiGaming-red?logo=youtube&logoColor=red" alt="YouTube - DAPHindiGaming"></a>
 <a href="https://twitter.com/Prakash53574940"><img src="https://img.shields.io/badge/Twitter-Prakash-blue?logo=twitter&logoColor=blue" alt="Twitter - Prakash"></a>
