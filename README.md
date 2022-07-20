@@ -5,7 +5,9 @@
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Prakash.
 
+#### ▶️ Currently Watching: 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=800&height=30&lines=JoJo's+Bizarre+Adventure+-+Stardust+Crusaders)](https://git.io/typing-svg)
 
 ### Let's Connect 🤳
 
