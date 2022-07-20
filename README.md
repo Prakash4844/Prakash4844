@@ -85,6 +85,8 @@ Hey there, Thanks for visiting my profile...
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Repo" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
+  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
