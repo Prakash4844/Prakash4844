@@ -10,7 +10,7 @@ Hey there, Thanks for visiting my profile...
 
 #### ▶️ Currently Watching: 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=800&height=30&lines=JoJo's+Bizarre+Adventure+-+Stardust+Crusaders)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=670&lines=JoJo%27s+Bizarre+Adventure%3A+Stardust+Crusaders+-+Egypt+Arc)](https://git.io/typing-svg)
 
 ### Let's Connect 🤳
 
