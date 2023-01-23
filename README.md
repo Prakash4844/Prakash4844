@@ -1,16 +1,136 @@
-### Hi there 👋
+![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
 
+
+<p align="center">
+  <img width="" height="" src="https://user-images.githubusercontent.com/81550376/164896586-26e6b3da-63bc-4313-8012-e4b13b825174.png">
+</p>
+
+Hey there, Thanks for visiting my profile... 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Prakash.
+
+<details>
+<summary><h4> ▶️ Currently Watching: </h4></summary> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=750&lines=Jojo's+Bizzare+Adventure:+Part+6+Stone+Ocean+Part+3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Pokémon+Ultimate+Journeys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
+
+</details>
+
+### Let's Connect 🤳
+
+<a href="https://www.youtube.com/channel/UChdZv3qYGkFC9VDYxuhVZgA"><img src="https://img.shields.io/badge/YouTube-DAPHindiGaming-red?logo=youtube&logoColor=red" alt="YouTube - DAPHindiGaming"></a>
+<a href="https://twitter.com/Prakash53574940"><img src="https://img.shields.io/badge/Twitter-Prakash-blue?logo=twitter&logoColor=blue" alt="Twitter - Prakash"></a>
+<a href="https://www.linkedin.com/in/prakash-kumar-2b58631b7/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Prakash+Kumar&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Prakash Kumar"></a>
+[![Gmail - Prakash](https://img.shields.io/badge/Gmail-Prakash-red?logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?ibxr=0#inbox?compose=new)
+
+
+### About Me 🚀
+
+🌱  I’m an Anime fan in Final year of my Bachelors in Computer Application. </br>
+🔭  I’m currently learning everything 🤣 </br>
+⚡  Fun fact: I love to draw, play video game & watch cartoons and anime. </br>
+👨‍💻  I am passionate about Game Development, Drawing & I enjoy learning new things. </br>
+</br>
+
+  
+### Languages 🧑‍💻 and Tools ⚙️:
+
+<!-- <p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,bash,powershell,html,css,js,bootstrap,jquery,md,cs,dotnet,java,idea,cpp,c,py,php,mysql,sqlite,unity,unreal,svg,vscode,ps,pr&perline=12" alt="skills logos" /> <br>
+</p> -->
+<img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,dotnet,py,html,css,js,jquery,bootstrap,php,md,java" alt="skills logos" /> <br>
+<br>
+### IDE, Editors and Game Engines 💻:
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal" alt="skills logos" />
+<br>
+
+### Tech Stacks 💻:
+
+<img src="https://skillicons.dev/icons?i=linux" alt="skills logos" />
+<img align="left" alt="Windows" width="27px" src="https://www.svgrepo.com/show/184142/windows.svg" />
+<img align="left" alt="Manjaro" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
+<img align="left" alt="Ubuntu" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
+<img align="left" alt="Zorin" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" />
+<img align="left" alt="Arch Linux" width="30px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
+<img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://www.corsinvest.it/wp-content/uploads/2019/10/mysql-icon-3.png" />
+<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
+<img align="left" alt="Terminal" width="34px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
+<img align="left" alt="Ubuntu Budgie" width="30px" src="https://www.omgubuntu.co.uk/wp-content/uploads/2017/01/ubuntu-budgie-logo.png" />
+<img align="left" alt="Apache HTTP Server" width="30px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" /> 
+<br>
+
+
+<!-- Github Widgetbox - Branch: NewSkillWidget
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,c,cpp,csharp,bash,powershell,markdown,linux,dotNETCore&includeNames=true)](https://github.com/Jurredr/github-widgetbox) -->
+<br>
+
+### My Projects 🙌
 <!--
-**Prakash4844/Prakash4844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars)
+- [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C)
+- [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system)
+- [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact)
+- [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix)
+- [Minimalistic CV website in PURE HTML](https://prakash4844.github.io/HTMLCV/)
+- [Website in HTML, CSS](https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/)
+- [TinDog](https://prakash4844.github.io/Tindog/)
 -->
+
+| Unity Projects | Web Devlopment | C/C++ & Python |
+| --------------- | --------------- | --------------- |
+| • [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars) | • [Minimalistic CV website in PURE HTML](https://prakash4844.github.io/HTMLCV/) | • [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C) | <!--First Row Ends here -->
+| • [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system) | • [Website in HTML, CSS](https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/) | • [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix) | <!--second Row Ends here -->
+| • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
+|• [RUBIKC(Coming Soon)](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) ||<!--Fourth Row Ends here -->
+|| • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) ||<!--Fifth Row Ends here -->
+
+<br />
+
+### Articles 📝 Written by me ✍️
+- [HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h](https://github.com/Prakash4844/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP) 
+- [How to use multiple code files(Custom Headers and Source) in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner)
+- [How to use multiple code files in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-in-CPP-for-beginners)
+- [How to easily root InFocus bingo 21.](https://www.reddit.com/r/androidroot/comments/aygetl/how_to_easily_root_infocus_bingo_21/)
+<details>
+<summary><h3>Mirror links of Article above</h3></summary>
+
+- [HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h](https://www.c-sharpcorner.com/article/how-to-setup-visual-studio-community-for-graphical-programming-in-cpp/) 
+- [How to use multiple code files(Custom Headers and Source) in C++ for beginners](https://www.c-sharpcorner.com/article/how-to-use-multiple-code-filescustom-headers-and-source-in-cpp/)
+- [How to use multiple code files in C++ for beginners](https://www.c-sharpcorner.com/article/how-to-use-multiple-code-files-in-cpp/)
+</details>
+<br />
+
+### 👨‍💻 Top Languages Used:
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakash4844&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  
+  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Prakash4844">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakash4844&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakash4844&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+ <br />
+  
+   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+
+ 
+ ![Prakash's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakash4844&theme=react-dark)
+ 
+ <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="Prakash4844" /></p>
+<p align="center">
+  Bye!
+</p>
+
+ <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Prakash4844.Prakash4844" alt="Prakash4844" />
+
+</p>
+
+
+![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
