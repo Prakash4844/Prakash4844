@@ -40,14 +40,12 @@ Hey there, Thanks for visiting my profile...
 <img src="https://skillicons.dev/icons?i=git,github,bash,powershell,html,css,js,bootstrap,jquery,md,cs,dotnet,java,idea,cpp,c,py,php,mysql,sqlite,unity,unreal,svg,vscode,ps,pr&perline=12" alt="skills logos" /> <br>
 </p> -->
 <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,dotnet,py,html,css,js,jquery,bootstrap,php,md,java" alt="skills logos" /> <br>
-<br>
+
 ### IDE, Editors and Game Engines 💻:
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal" alt="skills logos" />
-<br>
 
 ### Tech Stacks 💻:
 
-<img src="https://skillicons.dev/icons?i=linux" alt="skills logos" />
 <img align="left" alt="Windows" width="27px" src="https://www.svgrepo.com/show/184142/windows.svg" />
 <img align="left" alt="Manjaro" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
 <img align="left" alt="Ubuntu" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
