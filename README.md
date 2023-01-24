@@ -42,27 +42,11 @@ Hey there, Thanks for visiting my profile...
 <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,dotnet,py,html,css,js,jquery,bootstrap,php,md,java" alt="skills logos" /> <br>
 
 ### IDE, Editors and Game Engines 💻:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim" alt="skills logos" />
 
-### Tech Stacks 💻:
+### Others 💻:
 
-<img align="left" alt="Windows" width="27px" src="https://www.svgrepo.com/show/184142/windows.svg" />
-<img align="left" alt="Manjaro" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" />
-<img align="left" alt="Ubuntu" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
-<img align="left" alt="Zorin" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Zorin_Logomark.svg" />
-<img align="left" alt="Arch Linux" width="30px" src="https://www.pinclipart.com/picdir/big/344-3444076_arch-linux-logo-png-clipart.png" />
-<img align="left" alt="Endevour OS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/EndeavourOS_Logo.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://www.corsinvest.it/wp-content/uploads/2019/10/mysql-icon-3.png" />
-<img align="left" alt="SQLite" width="30px" src="https://media.trustradius.com/product-logos/Ou/HU/R8JW30GR5ELU-180x180.PNG" />
-<img align="left" alt="Terminal" width="34px" src="https://www.svgrepo.com/show/362176/terminal.svg" />
-<img align="left" alt="Ubuntu Budgie" width="30px" src="https://www.omgubuntu.co.uk/wp-content/uploads/2017/01/ubuntu-budgie-logo.png" />
-<img align="left" alt="Apache HTTP Server" width="30px" src="https://cpanelplesk.com/wp-content/uploads/2016/01/apache-logo.png" /> 
-<br>
-
-
-<!-- Github Widgetbox - Branch: NewSkillWidget
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,c,cpp,csharp,bash,powershell,markdown,linux,dotNETCore&includeNames=true)](https://github.com/Jurredr/github-widgetbox) -->
-<br>
+<img src="https://skillicons.dev/icons?i=linux,bash,mysql,sqlite,pr,ps" alt="skills logos" />
 
 ### My Projects 🙌
 <!--
