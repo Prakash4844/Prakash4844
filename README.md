@@ -11,7 +11,7 @@ Hey there, Thanks for visiting my profile...
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=750&lines=Jojo's+Bizzare+Adventure:+Part+6+Stone+Ocean+Part+3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Harley+Quinn+Season+3)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Pokémon+Ultimate+Journeys)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
 
