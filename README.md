@@ -67,7 +67,7 @@ Hey there, Thanks for visiting my profile...
 | • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
 |• [RUBIKC(Coming Soon)](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) ||<!--Fourth Row Ends here -->
 || • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) ||<!--Fifth Row Ends here -->
-|| • [Let's Learn Linux Website](hhttps://prakash4844.github.io/Let-s-Learn-Linux/index.html) ||<!--Sixth Row Ends here -->
+|| • [Let's Learn Linux Website](https://prakash4844.github.io/Let-s-Learn-Linux/index.html) ||<!--Sixth Row Ends here -->
 
 <br />
 
