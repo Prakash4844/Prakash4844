@@ -12,8 +12,8 @@ Hey there, Thanks for visiting my profile...
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Shrek+and+Puss+in+Boots+Movies)](https://git.io/typing-svg)
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Pokémon+Ultimate+Journeys)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Pokémon+Ultimate+Journeys)](https://git.io/typing-svg)-->
 
 </details>
 
@@ -67,6 +67,7 @@ Hey there, Thanks for visiting my profile...
 | • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
 |• [RUBIKC(Coming Soon)](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) ||<!--Fourth Row Ends here -->
 || • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) ||<!--Fifth Row Ends here -->
+|| • [Let's Learn Linux Website](hhttps://prakash4844.github.io/Let-s-Learn-Linux/index.html) ||<!--Sixth Row Ends here -->
 
 <br />
 
