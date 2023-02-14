@@ -29,7 +29,7 @@ Hey there, Thanks for visiting my profile...
 
 🌱  I’m an Anime fan in Final year of my Bachelors in Computer Application. </br>
 🔭  I’m currently learning everything 🤣 </br>
-⚡  Fun fact: I love to draw, play video game & watch cartoons and anime. </br>
+⚡  I love to draw, play video game & watch cartoons and anime. </br>
 👨‍💻  I am passionate about Game Development, Drawing & I enjoy learning new things. </br>
 </br>
 
