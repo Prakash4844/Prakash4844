@@ -39,14 +39,14 @@ Hey there, Thanks for visiting my profile...
 <!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,bash,powershell,html,css,js,bootstrap,jquery,md,cs,dotnet,java,idea,cpp,c,py,php,mysql,sqlite,unity,unreal,svg,vscode,ps,pr&perline=12" alt="skills logos" /> <br>
 </p> -->
-<img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,dotnet,py,html,css,js,jquery,bootstrap,php,md,java" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,c,cpp,cs,dotnet,py,html,css,js,jquery,bootstrap,php,md,java" alt="skills logos" /> <br>
 
 ### IDE, Editors and Game Engines 💻:
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim" alt="skills logos" />
 
 ### Others 💻:
 
-<img src="https://skillicons.dev/icons?i=linux,bash,mysql,sqlite,pr,ps" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=linux,powershell,bash,mysql,sqlite,pr,ps,svg,discord,linkedin" alt="skills logos" />
 
 ### My Projects 🙌
 <!--
