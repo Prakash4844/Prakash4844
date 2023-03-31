@@ -8,7 +8,9 @@
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Prakash.
 
-Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
+### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
+
+### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/index.html)  👈
 
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
@@ -66,9 +68,10 @@ Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
 | • [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars) | • [Minimalistic CV website in PURE HTML](https://prakash4844.github.io/HTMLCV/) | • [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C) | <!--First Row Ends here -->
 | • [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system) | • [Website in HTML, CSS](https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/) | • [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix) | <!--second Row Ends here -->
 | • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
-|• [RUBIKC(Coming Soon)](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) ||<!--Fourth Row Ends here -->
+|• [RUBIKC](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) ||<!--Fourth Row Ends here -->
 || • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) ||<!--Fifth Row Ends here -->
 || • [Let's Learn Linux Website](https://prakash4844.github.io/Let-s-Learn-Linux/index.html) ||<!--Sixth Row Ends here -->
+|| • [Portfolio Website](https://zaphkiel.netlify.app) ||<!--Seventh Row Ends here -->
 
 <br />
 
