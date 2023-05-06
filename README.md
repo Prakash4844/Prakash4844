@@ -70,8 +70,8 @@ Hey there, Thanks for visiting my profile...
 | • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
 |• [RUBIKC](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) | • [MyCode-For-CodeWithHarry-Python](https://github.com/Prakash4844/MyPythonCode-for-CodeWithHarry)|<!--Fourth Row Ends here -->
 || • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) | • [100 Days of Python](https://github.com/Prakash4844/100-Days-of-Python)|<!--Fifth Row Ends here -->
-|| • [Let's Learn Linux Website](https://prakash4844.github.io/Let-s-Learn-Linux/index.html) ||<!--Sixth Row Ends here -->
-|| • [Portfolio Website](https://zaphkiel.netlify.app) ||<!--Seventh Row Ends here -->
+|| • [Let's Learn Linux Website](https://prakash4844.github.io/Let-s-Learn-Linux/index.html) |• [GUI Password Generatot](https://github.com/Prakash4844/CodeClause_Random_Password_Generator)|<!--Sixth Row Ends here -->
+|| • [Portfolio Website](https://zaphkiel.netlify.app) |• [Simple Calculator with GUI](https://github.com/Prakash4844/CodeClause_Calculator)|<!--Seventh Row Ends here -->
 
 
 <br />
