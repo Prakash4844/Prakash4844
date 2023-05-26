@@ -108,8 +108,7 @@ Hey there, Thanks for visiting my profile...
   
    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
 
- 
- ![Prakash's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prakash4844&theme=react-dark)
+ ![Prakash's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=Prakash4844&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
  <p align="center"><img align="center" src="60157b62652163c01c6d19e2a389338e.gif" alt="Prakash4844" /></p>
 <p align="center">
