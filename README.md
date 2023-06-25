@@ -12,6 +12,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/index.html)  👈
 
+### Checkout my first automation project: [GitHub Streak Maintainer](https://github.com/Prakash4844/Github_Streak_Maintainer)  👈
+
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
 
@@ -52,35 +54,25 @@ Hey there, Thanks for visiting my profile...
 <img src="https://skillicons.dev/icons?i=linux,powershell,bash,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,twitter" alt="skills logos" />
 
 ### My Projects 🙌
-<!--
-- [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars)
-- [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C)
-- [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system)
-- [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact)
-- [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix)
-- [Minimalistic CV website in PURE HTML](https://prakash4844.github.io/HTMLCV/)
-- [Website in HTML, CSS](https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/)
-- [TinDog](https://prakash4844.github.io/Tindog/)
--->
 
-| Unity Projects | Web Devlopment | C/C++ & Python |
-| --------------- | --------------- | --------------- |
-| • [Space Wars 2D Shooter Game With Unity](https://prakash4844.itch.io/space-wars) | • [Minimalistic CV website in PURE HTML](https://prakash4844.github.io/HTMLCV/) | • [Basic-ATM-Machine-Project-in-C](https://github.com/Prakash4844/Basic-ATM-Machine-Project-in-C) | <!--First Row Ends here -->
-| • [Solar System Project created in Unity3D](https://prakash4844.itch.io/solar-system) | • [Website in HTML, CSS](https://prakash4844.github.io/Sample-CV-using-HTML-And-CSS/) | • [CPP-Project-to-Invert-Matrix](https://github.com/Prakash4844/CPP-Project-to-Invert-Matrix) | <!--second Row Ends here -->
-| • [SpaceXImpact Game made with Unity](https://github.com/Prakash4844/SpaceXImpact) | • [TinDog](https://prakash4844.github.io/Tindog/) | • **NSFW**[ Python Project using Turtle Module](https://github.com/Prakash4844/NSFW-Python-Project-using-Turtle-Module) |<!--Third Row Ends here -->
-|• [RUBIKC](https://github.com/Prakash4844/Rubikc)| • [Jojo's Bizzare adventure Website](https://prakash4844.github.io/JJBA-Site/) | • [MyCode-For-CodeWithHarry-Python](https://github.com/Prakash4844/MyPythonCode-for-CodeWithHarry)|<!--Fourth Row Ends here -->
-|| • [Dressingnity E-Commerce Website](https://github.com/Prakash4844/Dressingnity-Ecommerce-Website) | • [100 Days of Python](https://github.com/Prakash4844/100-Days-of-Python)|<!--Fifth Row Ends here -->
-|| • [Let's Learn Linux Website](https://prakash4844.github.io/Let-s-Learn-Linux/index.html) |• [GUI Password Generatot](https://github.com/Prakash4844/CodeClause_Random_Password_Generator)|<!--Sixth Row Ends here -->
-|| • [Portfolio Website](https://zaphkiel.netlify.app) |• [Simple Calculator with GUI](https://github.com/Prakash4844/CodeClause_Calculator)|<!--Seventh Row Ends here -->
-
+#### [See in Portfolio](https://zaphkiel.netlify.app/#projects)
 
 <br />
 
 ### Articles 📝 Written by me ✍️
+
+#### [See in Portfolio](https://zaphkiel.netlify.app/blogs/)
+
+<details>
+<summary><h3>Article</h3></summary>
+
 - [HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h](https://github.com/Prakash4844/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP) 
 - [How to use multiple code files(Custom Headers and Source) in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner)
 - [How to use multiple code files in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-in-CPP-for-beginners)
 - [How to easily root InFocus bingo 21.](https://www.reddit.com/r/androidroot/comments/aygetl/how_to_easily_root_infocus_bingo_21/)
+
+</details>
+
 <details>
 <summary><h3>Mirror links of Article above</h3></summary>
 
