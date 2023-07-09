@@ -11,8 +11,9 @@ Hey there, Thanks for visiting my profile...
 ### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
 
 ### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/index.html)  👈
-
+<!--
 ### Checkout my first automation project: [GitHub Streak Maintainer](https://github.com/Prakash4844/Github_Streak_Maintainer)  👈
+-->
 
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
