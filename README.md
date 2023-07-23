@@ -52,7 +52,7 @@ Hey there, Thanks for visiting my profile...
 
 ### Others 💻:
 
-<img src="https://skillicons.dev/icons?i=linux,powershell,bash,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,twitter" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=linux,powershell,bash,docker,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,fediverse,twitter" alt="skills logos" />
 
 ### My Projects 🙌
 
