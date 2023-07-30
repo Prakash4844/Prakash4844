@@ -19,7 +19,7 @@ Hey there, Thanks for visiting my profile...
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Shrek+and+Puss+in+Boots+Movies)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Kaguya+Sama:+Love+is+War+S2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Kaguya+Sama:+Love+is+War+Ultra+Romantic)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
 </details>
 
