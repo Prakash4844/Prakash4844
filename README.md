@@ -11,9 +11,9 @@ Hey there, Thanks for visiting my profile...
 ### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.me)  👈
 
 ### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/index.html)  👈
-<!--
-### Checkout my first automation project: [GitHub Streak Maintainer](https://github.com/Prakash4844/Github_Streak_Maintainer)  👈
--->
+
+### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/Prakash4844/Get-Pair-Extraordinaire)  👈
+
 
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
@@ -33,10 +33,10 @@ Hey there, Thanks for visiting my profile...
 
 ### About Me 🚀
 
-🌱  I’m an Anime fan in Final year of my Bachelors in Computer Application. </br>
-🔭  I’m currently learning everything 🤣 </br>
-⚡  I love to draw, play video game & watch cartoons and anime. </br>
-👨‍💻  I am passionate about Game Development, Drawing & I enjoy learning new things. </br>
+🌱  I’m an Anime, comics, manga fan in Final year of my Bachelors in Computer Application. </br>
+🔭  I’m currently learning about the DevOps. </br>
+⚡  I love to draw, play video game & watch cartoons and anime, Fantasy TV series and movies. </br>
+👨‍💻  I am passionate about DevOps, Automation, Drawing & I Highly enjoy learning new things. </br>
 </br>
 
   
