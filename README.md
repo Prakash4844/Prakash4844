@@ -56,13 +56,13 @@ Hey there, Thanks for visiting my profile...
 
 ### My Projects 🙌
 
-#### [See in Portfolio](https://zaphkiel.netlify.app/#projects)
+#### [See in Portfolio](https://zaphkiel.me#projects)
 
 <br />
 
 ### Articles 📝 Written by me ✍️
 
-#### [See in Portfolio](https://zaphkiel.netlify.app/blogs/)
+#### [See in Portfolio](https://zaphkiel.me/blogs/)
 
 <details>
 <summary><h3>Article</h3></summary>
