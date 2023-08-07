@@ -19,7 +19,7 @@ Hey there, Thanks for visiting my profile...
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Shrek+and+Puss+in+Boots+Movies)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&lines=Kaguya+Sama:+%20First+Kiss+Never+Ends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&separator=%3C&lines=Stein;gates)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
 </details>
 
@@ -52,7 +52,7 @@ Hey there, Thanks for visiting my profile...
 
 ### Others 💻:
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,fediverse,twitter" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,fediverse" alt="skills logos" />
 
 ### My Projects 🙌
 
