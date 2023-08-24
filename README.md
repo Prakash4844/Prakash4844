@@ -17,8 +17,7 @@ Hey there, Thanks for visiting my profile...
 
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Shrek+and+Puss+in+Boots+Movies)](https://git.io/typing-svg) -->
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&separator=%3C&lines=Stein;gates0)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
 </details>
@@ -42,9 +41,6 @@ Hey there, Thanks for visiting my profile...
   
 ### Languages 🧑‍💻 and Tools ⚙️:
 
-<!-- <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,bash,powershell,html,css,js,bootstrap,jquery,md,cs,dotnet,java,idea,cpp,c,py,php,mysql,sqlite,unity,unreal,svg,vscode,ps,pr&perline=12" alt="skills logos" /> <br>
-</p> -->
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,c,cpp,cs,dotnet,html,css,js,bootstrap,php,md,java" alt="skills logos" /> <br>
 
 ### IDE, Editors and Game Engines 💻:
@@ -58,30 +54,9 @@ Hey there, Thanks for visiting my profile...
 
 #### [See in Portfolio](https://zaphkiel.me#projects)
 
-<br />
-
 ### Articles 📝 Written by me ✍️
 
 #### [See in Portfolio](https://zaphkiel.me/blogs/)
-
-<details>
-<summary><h3>Article</h3></summary>
-
-- [HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h](https://github.com/Prakash4844/How-to-setup-Visual-Studio-Community-for-using-graphic.h-with-CPP) 
-- [How to use multiple code files(Custom Headers and Source) in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-Custom-Headers-and-Source-in-CPP-for-beginner)
-- [How to use multiple code files in C++ for beginners](https://github.com/Prakash4844/How-to-use-multiple-code-files-in-CPP-for-beginners)
-- [How to easily root InFocus bingo 21.](https://www.reddit.com/r/androidroot/comments/aygetl/how_to_easily_root_infocus_bingo_21/)
-
-</details>
-
-<details>
-<summary><h3>Mirror links of Article above</h3></summary>
-
-- [HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h](https://www.c-sharpcorner.com/article/how-to-setup-visual-studio-community-for-graphical-programming-in-cpp/) 
-- [How to use multiple code files(Custom Headers and Source) in C++ for beginners](https://www.c-sharpcorner.com/article/how-to-use-multiple-code-filescustom-headers-and-source-in-cpp/)
-- [How to use multiple code files in C++ for beginners](https://www.c-sharpcorner.com/article/how-to-use-multiple-code-files-in-cpp/)
-</details>
-<br />
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
