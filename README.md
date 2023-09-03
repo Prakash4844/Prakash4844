@@ -44,11 +44,11 @@ Hey there, Thanks for visiting my profile...
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,c,cpp,cs,dotnet,html,css,js,bootstrap,php,md,java" alt="skills logos" /> <br>
 
 ### IDE, Editors and Game Engines 💻:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim,replit" alt="skills logos" />
 
 ### Others 💻:
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,mysql,sqlite,pr,ps,svg,discord,linkedin,netlify,fediverse" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=linux,bash,regex,powershell,docker,azure,mysql,sqlite,gradle,maven,nginx,pr,ps,svg,discord,linkedin,netlify,gherkin" alt="skills logos" />
 
 ### My Projects 🙌
 
