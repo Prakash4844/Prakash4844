@@ -74,7 +74,11 @@ Hey there, Thanks for visiting my profile...
 </a>
  <br />
   
-   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=prakash4844&column=8&theme=algolia&no-frame=true" alt="Prakash4844Trophy" /></p>
+
+
 
  ![Prakash's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=Prakash4844&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
