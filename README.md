@@ -76,7 +76,7 @@ Hey there, Thanks for visiting my profile...
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=prakash4844&column=8&theme=algolia&no-frame=true" alt="Prakash4844Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=prakash4844&column=6&theme=algolia&no-frame=true" alt="Prakash4844Trophy" /></p>
 
 
 
