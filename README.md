@@ -18,7 +18,7 @@ Hey there, Thanks for visiting my profile...
 <details>
 <summary><h4> ▶️ Currently Watching: </h4></summary> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&separator=%3C&lines=Bleach+S04:+The+Bount)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&separator=%3C&lines=Bleach+S05:+The+Assault)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&width=600&lines=Super+Dragon+Ball%3A+Heroes)](https://git.io/typing-svg)
 </details>
 
