@@ -42,14 +42,14 @@ Hey there, Thanks for visiting my profile...
   
 ### Languages 🧑‍💻 and Tools ⚙️:
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,py,go,jenkins,c,cpp,cs,dotnet,html,css,js,bootstrap,php,md,java" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,py,go,jenkins,c,cpp,cmake,cs,dotnet,html,css,js,bootstrap,php,md,java" alt="skills logos" /> <br>
 
 ### IDE, Editors and Game Engines 💻:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim,replit" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,unity,unreal,vim,replit,codepen" alt="skills logos" />
 
 ### Others 💻:
 
-<img src="https://skillicons.dev/icons?i=linux,bash,regex,powershell,docker,kubernetes,aws,azure,gcp,openshift,postman,mysql,sqlite,gradle,maven,flask,nginx,pr,ps,svg,discord,linkedin,netlify,gherkin" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,redhat,ubuntu,bash,regex,powershell,docker,kubernetes,aws,azure,gcp,openshift,postman,mysql,sqlite,gradle,maven,flask,nginx,pr,ps,svg,discord,linkedin,netlify,gherkin" alt="skills logos" />
 
 ### My Projects 🙌
 
