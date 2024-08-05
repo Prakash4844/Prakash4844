@@ -8,9 +8,9 @@
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Prakash.
 
-### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.me)  👈
+### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
 
-### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
+### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)  👈
 
 ### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/Prakash4844/Get-Pair-Extraordinaire)  👈
 
