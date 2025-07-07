@@ -10,7 +10,7 @@ Hey there, Thanks for visiting my profile...
 
 ### Checkout my Portfolio: [Zaphkiel](https://zaphkiel.netlify.app/)  👈
 
-### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/)  👈
+### Checkout my flagship project: [Let's Learn Linux](https://prakash4844.github.io/Let-s-Learn-Linux/), [Sona Clipboard Manager](https://github.com/Prakash4844/Sona) 👈
 
 ### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/Prakash4844/Get-Pair-Extraordinaire)  👈
 
